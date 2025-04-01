@@ -1,0 +1,15 @@
+p {
+    font-family: sans-serif;
+}
+
+#p1 {
+    color: deeppink;
+}
+
+#p2 {
+    color: blue;
+}
+
+#p3 {
+    border: 2px solid black;
+}
